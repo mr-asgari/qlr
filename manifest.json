@@ -2,7 +2,7 @@
 "manifest_version": 2,
 "name": "Safe Quora",
 "version": "1.0",
-"homepage_url": "http://www.github.com/mr-asgari",
+"homepage_url": "http://www.github.com/mr-asgari/qlr",
 "description": "Remove Quora Login Page",
 "icons": {
 "96": "icons/default_icon.png"
